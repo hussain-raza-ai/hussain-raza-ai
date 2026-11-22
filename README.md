@@ -11,10 +11,10 @@ I'm an AI Engineer in Lahore, Pakistan. I build speech, document and language AI
 | [**MedScribe AI**](https://hussain-raza-ai.vercel.app/work/medscribe-ai) | A doctor dictates for 30 seconds; a structured 7-field clinical record comes back in about 2 seconds, with an AI drug-safety review, on the hospital's own GPUs. |
 | [**Lab Report Extraction**](https://hussain-raza-ai.vercel.app/work/lab-report-extraction) | Unstructured PDF lab reports become structured, doctor-verified summaries before a telemedicine consultation. |
 | [**Dr. Sara**](https://hussain-raza-ai.vercel.app/work/dr-sara) | An Urdu voice agent that takes a patient's medical intake in real time. |
-| [**Smart Query Routing**](https://hussain-raza-ai.vercel.app/work/smart-query-routing) | My final year project: classifies web and email queries, routes each one to the right department and drafts a reply. |
+| [**Smart Query Routing**](https://hussain-raza-ai.vercel.app/work/smart-query-routing) | My final year project: classifies web and email queries, routes each one to the right department and drafts a reply. [Code](https://github.com/hussain-raza-ai/smart-query-routing-system) |
 | [**University ERP & LMS**](https://hussain-raza-ai.vercel.app/work/university-erp-lms) | Admissions, fees, academics and exams in one self-hosted system. |
 
-The production code for these systems belongs to my employer and its clients, so each one is documented as a case study on my portfolio: what problem it solves, how it works step by step, and the results.
+The code for Smart Query Routing is public. The production code for the other systems belongs to my employer and its clients, so each one is documented as a case study on my portfolio: what problem it solves, how it works step by step, and the results.
 
 ### Tools I work with
 
